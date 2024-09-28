@@ -13,7 +13,7 @@ public class JogoAdivinhacao {
 
  
 		      System.out.println("Bem-vindo ao jogo de adivinhação!");
-		        System.out.println("Eu escolhi um número entre 1 e 100. Tente adivinhar!");
+		        System.out.println("Eu escolhi um número entre 1 e 100. Tente adivinhar!!");
 		        
 		        while (!acertou) {
 		            System.out.print("Digite seu palpite: ");
